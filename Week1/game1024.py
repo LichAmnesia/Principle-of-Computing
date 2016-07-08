@@ -2,10 +2,12 @@
 # @Author: Lich_Amnesia
 # @Email: alwaysxiaop@gmail.com
 # @Date:   2016-07-08 09:41:21
-# @Last Modified time: 2016-07-08 10:39:08
+# @Last Modified time: 2016-07-08 10:41:40
 # @FileName: game1024.py
 """
 a game of 1024 for week 1 mini-project
+http://www.codeskulptor.org/#user41_5Dup1EVubJ_3.py
+Score: 86.0/100
 """
 
 # Merge function for 2048 game.
